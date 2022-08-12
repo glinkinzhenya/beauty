@@ -245,7 +245,7 @@ a {
 
   color: #ffffff;
   background-color: #f13c6e;
-  background-image: url(/assets/img/hero.png);
+  background-image: url(..//img/hero.png);
   background-repeat: no-repeat;
   background-position: 60% 50%;
   background-size: contain;
@@ -362,7 +362,7 @@ a {
 
 .subscribe {
   background-color: #f13c6e;
-  background-image: url(/assets/img/mail.svg);
+  background-image: url(../img/mail.svg);
   background-repeat: no-repeat;
   background-position: 89% 50%;
 }
@@ -419,7 +419,7 @@ input:focus {
 
 .location {
   background-color: #f13c6e;
-  background-image: url(/assets/img/car.svg);
+  background-image: url(../img/car.svg);
   background-repeat: no-repeat;
   background-position: 89% 50%;
 }
@@ -502,7 +502,7 @@ input:focus {
   height: 120px;
 
   background-color: #ffffff;
-  background-image: url(/assets/img/impuls.png);
+  background-image: url(..//img/impuls.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
@@ -587,8 +587,6 @@ input:focus {
 }
 
 .end__politics {
-  text-align: right;
-
   color: #828282;
 
   font-size: 12px;

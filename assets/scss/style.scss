@@ -186,7 +186,7 @@ a {
     padding-top: 192px;
     padding-bottom: 194px;
     color: #ffffff;
-    background-image: url(/assets/img/hero.png);
+    background-image: url(..//img/hero.png);
     background-repeat: no-repeat;
     background-position: 60% 50%;
     background-size: contain;
@@ -281,7 +281,7 @@ a {
 }
 
 .subscribe {
-    background-image: url(/assets/img/mail.svg);
+    background-image: url(../img/mail.svg);
     background-repeat: no-repeat;
     background-position: 89% 50%;
     background-color: #f13c6e;
@@ -330,7 +330,7 @@ input:focus {
 }
 
 .location {
-    background-image: url(/assets/img/car.svg);
+    background-image: url(../img/car.svg);
     background-repeat: no-repeat;
     background-position: 89% 50%;
     background-color: #f13c6e;
@@ -392,7 +392,7 @@ input:focus {
 .impuls__image {
     height: 120px;
     min-width: calc(25% - 1px);
-    background-image: url(/assets/img/impuls.png);
+    background-image: url(..//img/impuls.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-color: #ffffff;
@@ -476,6 +476,5 @@ input:focus {
     font-weight: 400;
     font-size: 12px;
     line-height: 14px;
-    text-align: right;
     color: #828282;
 }
